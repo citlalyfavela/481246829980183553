@@ -13,7 +13,7 @@ Explain how your project works
 
 ## How to test
 
-Explain how to use your project
+Aqui si tienes que explicar en ingles que hace tu circuito
 
 ## External hardware
 
